@@ -69,6 +69,6 @@ For additional info, contact Chris Hollman at [chollman91@gmail.com](mailto:chol
 ```
 ├── Data
 ├── Images
+├── Twitter_NLP.ipynb
 ├── NLP_Project_Slides.pdf
-├── README.md
-└── Twitter_NLP.ipynb
+└── README.md
