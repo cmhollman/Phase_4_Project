@@ -26,7 +26,7 @@ The data consist of about 9,000 tweets compiled by CrowdFlower. These tweets are
 
 ## Methods
 
-We applied both a Multinomial Naive Bayes model and an AdaBoost model to the tweets. With there being such a large class imbalance, f1 scores for the minority groups (positive and negative sentiment)
+We applied both a Multinomial Naive Bayes model and an AdaBoost model to the tweets. With there being such a large class imbalance, f1 and accuracy scores for the minority groups (positive and negative sentiment) will be the main metric for evaluating the quality of our model.
 
 
 ## Results
